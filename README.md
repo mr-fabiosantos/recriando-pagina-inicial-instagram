@@ -1,3 +1,3 @@
 # Recriando a página inicial do Instagram 
 
-## 🚀 Let's code! 🚀
+Desafio proposto pela DIO no Bootcamp HTML Web Developer
